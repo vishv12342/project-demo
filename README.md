@@ -1,4 +1,2 @@
 # project-demo
-this is my first project 
-
-Hello World
+this is my first project
